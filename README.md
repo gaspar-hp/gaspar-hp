@@ -1,8 +1,8 @@
-👋 Hola, yo soy @gaspar-hp
-👀 I’m interested in computational biology
-🌱 I’m currently learning about analysis of high throughput DNA sequencing datasets
-💞️ I’m open to collaborate on these fields
-📫 Reach me at gasparherrerapacheco@gmail.com
+👋 Hola, yo soy @gaspar-hp <br>
+👀 I’m interested in computational biology<br>
+🌱 I’m currently learning about analysis of dynamical systems, and also high throughput DNA sequencing datasets<br>
+💞️ I’m open to collaborate on these fields<br>
+📫 Reach me at gasparherrerapacheco@gmail.com<br>
 
 <!---
 gaspar-hp/gaspar-hp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
