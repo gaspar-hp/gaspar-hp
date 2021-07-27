@@ -1,5 +1,5 @@
 👋 Hola, yo soy @gaspar-hp
-👀 Id’m interested in computational biology
+👀 I’m interested in computational biology
 🌱 I’m currently learning about analysis of high throughput DNA sequencing datasets
 💞️ I’m open to collaborate on these fields
 📫 Reach me at gasparherrerapacheco@gmail.com
